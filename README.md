@@ -6,6 +6,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+[Teaching experience](teaching.md)
+
+[Teaching experience full link](https://marharyta-aleksandrova.github.io/teaching)
+
+[Teaching experience full link](https://marharyta-aleksandrova.github.io/teaching.md)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
