@@ -1,4 +1,4 @@
-[Home](google.com) --- [News](google.com) --- [Research](google.com) --- [Teaching](google.com) --- [Academic services](google.com) --- [Projects](google.com)
+[Home](README.md) --- [News](news.md) --- [Research](research.md) --- [Teaching](teaching.md) --- [Academic services](academicservices.md) --- [Projects](projects.md)
 
 ## Welcome to GitHub Pages
 
@@ -11,8 +11,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [Teaching experience](teaching.md)
 
 [Teaching experience full link](https://marharyta-aleksandrova.github.io/teaching)
-
-[Teaching experience full link](https://marharyta-aleksandrova.github.io/teaching.md)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
