@@ -1,3 +1,5 @@
+[home](google.com) - [news](google.com) - [research](google.com) - [teaching](google.com) - [academic services](google.com) - [projects](google.com)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/marharyta-aleksandrova/marharyta-aleksandrova.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
