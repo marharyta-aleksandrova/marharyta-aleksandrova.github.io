@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: Marharyta Aleksandrova
 description: Welcome to my homepage!
 logo: resources/ALEKSANDROVA_Marharyta_photo.jpg
-show_downloads: true
+show_downloads: false
