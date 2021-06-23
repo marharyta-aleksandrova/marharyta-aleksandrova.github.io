@@ -1,4 +1,4 @@
-[home](google.com) - [news](google.com) - [research](google.com) - [teaching](google.com) - [academic services](google.com) - [projects](google.com)
+[Home](google.com) - [News](google.com) - [Research](google.com) - [Teaching](google.com) -- [Academic services](google.com) --- [Projects](google.com)
 
 ## Welcome to GitHub Pages
 
