@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 title: Marharyta Aleksandrova
 description: Welcome to my homepage!
 logo: resources/ALEKSANDROVA_Marharyta_photo.jpg
-show_downloads: "false"
 url: "https://marharyta-aleksandrova.github.io/" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
+show_downloads: "false"
