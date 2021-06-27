@@ -7,7 +7,7 @@
 **2021.06.29**: Tutorial ["Vers l'apprentissage automatique causal"](https://pfia2021.fr/tutoriels/?p=programme) /
 "Towards Causal Machine Learning" at [PFIA'21](https://pfia2021.fr/) 
 
-**2020.12**: 2 hours lecture "Causal Inference & Causal Learning" for Master students of Applied Mathematics Department at [National Technical University of Ukraine 
+**2020.12.23**: 2 hours lecture "Causal Inference & Causal Learning" for Master students of Applied Mathematics Department at [National Technical University of Ukraine 
 “Igor Sikorsky KPI”](https://kpi.ua/en/). Check [here](https://drive.google.com/file/d/1xGsyCEwaCGsTiiqXfgohi1FEy66zOc0n/view?usp=sharing) for slides and other
 resources.
 
