@@ -1,43 +1,11 @@
 [Home](README.md) --- [News](news.md) --- [Research](research.md) --- [Teaching](teaching.md) --- [Academic services](academic_services.md) --- [Projects](projects.md) --- [Education & Work Experience](education_and_work.md)
 
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/marharyta-aleksandrova/marharyta-aleksandrova.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi there!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a researcher in Machine Learning and Artificial Intelligence. Currently, I work as a postdoctoral researcher at the [University of Luxembourg](https://wwwen.uni.lu/) 
+where I am a member of [SECAN-Lab team](https://secan-lab.uni.lu/).
 
-### Markdown
-
-[Teaching experience](teaching.md)
-
-[Teaching experience full link](https://marharyta-aleksandrova.github.io/teaching)
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marharyta-aleksandrova/marharyta-aleksandrova.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Feel free to browse this website to learn about my [research](research.md), [teaching](teaching.md), and other experiences. You can also find out more by checking my 
+[LinkedIn](https://www.linkedin.com/in/marharyta-aleksandrova-8b567245/) and [Google Scholar](https://scholar.google.com/citations?user=rwcqydIAAAAJ&hl=en&oi=ao) pages.
