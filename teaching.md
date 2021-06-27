@@ -35,4 +35,20 @@ Nima Jehan Mothafar "Impact of model-agnostic nonconformity functions on perform
 ### [University of Luxembourg](https://wwwen.uni.lu/)
 
 Course "Fundamentals of causal learning" for [Master in Information and Computer Sciences](https://wwwen.uni.lu/studies/fstm/master_in_information_and_computer_sciences/programme), 
-3d semester. Taught in fall 2020. Check [here](https://youtu.be/xYp-gOUrKxo) for a short video presentation of the course.
+3d semester. Check [here](https://youtu.be/xYp-gOUrKxo) for a short video presentation of the course. Taught in fall 2020.
+
+Course "Computational Science 2" for [Bachelor in Computer Science](https://wwwfr.uni.lu/formations/fstm/bachelor_in_computer_science/programme), 6th semester. 
+Check [here](https://wwwfr.uni.lu/layout/set/print/formations/fstm/bachelor_in_computer_science/programme?f=BAACAINFOR&c=0008C3366) for the detailed description of
+the course. Taught in spring 2020, 2021.
+
+
+### [University of Lorraine](https://www.univ-lorraine.fr/)
+
+2016.09 -- 2017.08: Teaching assistant, 200 hours of teaching.
+Coursers taught: Introduction to programming (Java), Data Structures, Object-oriented programming (Java), Programming and Administration of Databases (Oracle PL/SQL), Databases and applications (MySQL, PHP).
+
+
+### [National Technical University of Ukraine “Igor Sikorsky KPI”](https://kpi.ua/en/)
+
+Spring 2013: teaching assistant for the course "Quantum computing".
+
