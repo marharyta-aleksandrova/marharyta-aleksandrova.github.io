@@ -1,10 +1,10 @@
 [Home](README.md)
---- [News](news.md) 
---- [Research](research.md) --- [Teaching](teaching.md) --- [Academic services](academic_services.md) --- [Projects](projects.md) --- [Education & Work Experience](education_and_work.md)
+--- [Research](research.md) 
+--- [Teaching](teaching.md) 
+--- [Academic services](academic_services.md) 
+--- [Projects](projects.md) 
+--- [Education & Work Experience](education_and_work.md)
 
-[comment]: <> (This is a comment, it will not be included)
-[comment]: <> (in  the output file unless you use it in)
-[comment]: <> (a reference style link.)
 
 # About me
 
