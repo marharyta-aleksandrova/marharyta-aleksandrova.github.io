@@ -1,4 +1,10 @@
-[Home](README.md) --- [News](news.md) --- [Research](research.md) --- [Teaching](teaching.md) --- [Academic services](academicservices.md) --- [Projects](projects.md)
+[Home](README.md)
+--- [Research](research.md) 
+--- [Teaching](teaching.md) 
+--- [Academic services](academic_services.md) 
+--- [Projects](projects.md) 
+--- [Education](education.md)
+--- [Work Experience](work.md)
 
 # Teaching experience
 
