@@ -1,3 +1,11 @@
+[Home](README.md)
+--- [Research](research.md) 
+--- [Teaching](teaching.md) 
+--- [Academic services](academic_services.md) 
+--- [Projects](projects.md) 
+--- [Education](education.md)
+--- [Work Experience](work.md)
+
 # Projects
 
 ## EU Projects
