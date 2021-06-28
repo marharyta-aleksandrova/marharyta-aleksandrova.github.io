@@ -25,7 +25,7 @@ The aim of this project is to research and propose novel solutions in privacy-pr
 
 ## Other projects
 
-Project “User modeling and identification of conditions for automatic recommendations generation in context-dependent services”, contract number РД/654/29-0313.
+**User modeling and identification of conditions for automatic recommendations generation in context-dependent services**, contract number РД/654/29-0313.
 This is a joint project conducted by National Technical University of Ukraine “Igor Sikorsky KPI” in collaboration with Samsung Electronics.
 The objective of this project is to identify different macro-situations and to recommend to users best behavioral reactions in each of them. 
 For example, if it is identified that a user is in a traffic jam on his personal vehicle, then the system can suggest him to listen to relaxing music or 
