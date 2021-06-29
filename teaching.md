@@ -44,7 +44,7 @@ Course "Fundamentals of causal learning" for [Master in Information and Computer
 3d semester. Check [here](https://youtu.be/xYp-gOUrKxo) for a short video presentation of the course. Taught in fall 2020.
 
 Course "Computational Science 2" for [Bachelor in Computer Science](https://wwwfr.uni.lu/formations/fstm/bachelor_in_computer_science/programme), 6th semester. 
-Check [here](https://wwwfr.uni.lu/layout/set/print/formations/fstm/bachelor_in_computer_science/programme?f=BAACAINFOR&c=0008C3366) for the detailed description of
+Check [here](https://wwwfr.uni.lu/layout/set/print/formations/fstm/bachelor_in_computer_science/programme?f=BAACAINFOR&c=0008C3366) for a detailed description of
 the course. Taught in spring 2020, 2021.
 
 
