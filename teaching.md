@@ -51,7 +51,7 @@ the course. Taught in spring 2020, 2021.
 ### [University of Lorraine](https://www.univ-lorraine.fr/)
 
 2016.09 -- 2017.08: Teaching assistant, 200 hours of teaching.
-Coursers taught: Introduction to programming (Java), Data Structures, Object-oriented programming (Java), Programming and Administration of Databases (Oracle PL/SQL), Databases and applications (MySQL, PHP).
+Courses taught: Introduction to programming (Java), Data Structures, Object-oriented programming (Java), Programming and Administration of Databases (Oracle PL/SQL), Databases and applications (MySQL, PHP).
 
 
 ### [National Technical University of Ukraine “Igor Sikorsky KPI”](https://kpi.ua/en/)
