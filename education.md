@@ -24,10 +24,10 @@ This work resulted in a publication
 [*Prediction of nocturnal hypoglycemia by an aggregation of previously known prediction approaches: proof of concept for clinical application*](https://www.sciencedirect.com/science/article/abs/pii/S016926071630164X).
 
 
-**2011.09 -- 2013.06**: 	Master of Applied Mathematics (degree with distinction) from [National Technical University of Ukraine “Igor Sikorsky KPI”](https://kpi.ua/en/), 
+**2011.09 -- 2013.06**: 	Master of Applied Mathematics (degree with distinction) from the [National Technical University of Ukraine “Igor Sikorsky KPI”](https://kpi.ua/en/), 
 Applied Mathematics Department.
 
-**2007.09 -- 2011.06**: Bachelor of Applied Mathematics (degree  with distinction) from [National Technical University of Ukraine “Igor Sikorsky KPI”](https://kpi.ua/en/), 
+**2007.09 -- 2011.06**: Bachelor of Applied Mathematics (degree  with distinction) from the [National Technical University of Ukraine “Igor Sikorsky KPI”](https://kpi.ua/en/), 
 Applied Mathematics Department.
 
 
