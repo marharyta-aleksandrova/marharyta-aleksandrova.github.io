@@ -30,4 +30,4 @@ at [Lviv Data Science Summer School](https://apps.ucu.edu.ua/en/summerschool-ds/
 "Towards Causal Machine Learning" at [PFIA'21](https://pfia2021.fr/).
 
 **2021.05:** Our paper *k-Pareto Optimality for Many-Objective Genetic Optimization* by Jean Ruppert, Marharyta Aleksandrova and Thomas Engel was accepted 
-as a late-breaking abstract for [The Genetic and Evolutionary Computation Conference GECCO-2021](https://gecco-2021.sigevo.org/Accepted-Late-breaking-Abstracts). [poster](resources/2021/GECCO-poster.png), [video presentation](https://youtu.be/Z-46YdD6UhA)
+as a late-breaking abstract for [The Genetic and Evolutionary Computation Conference GECCO-2021](https://gecco-2021.sigevo.org/Accepted-Late-breaking-Abstracts). More resources: [poster](resources/2021/GECCO-poster.png), [video presentation](https://youtu.be/Z-46YdD6UhA)
