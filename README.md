@@ -32,5 +32,7 @@ at [Lviv Data Science Summer School](https://apps.ucu.edu.ua/en/summerschool-ds/
 **2021.05:** Our paper *k-Pareto Optimality for Many-Objective Genetic Optimization* by Jean Ruppert, Marharyta Aleksandrova and Thomas Engel was accepted 
 as a late-breaking abstract for [The Genetic and Evolutionary Computation Conference GECCO-2021](https://gecco-2021.sigevo.org/Accepted-Late-breaking-Abstracts). Resources: [poster](resources/2021/GECCO-poster.png), [video presentation](https://youtu.be/Z-46YdD6UhA)
 
+**2020.02:** Our paper *BacAnalytics: A Tool to Support Secondary School Examination in France* by Azim Roussanaly, Marharyta Aleksandrova and Anne Boyer was accepted for 25th International Symposium on Methodologies for Intelligent Systems [ISMIS 2020](https://ismis.ist.tugraz.at/). Resources: [video presentation](https://www.youtube.com/watch?v=f3ZJd_hzwfQ), [paper](https://hal.inria.fr/hal-03020852/document)
+
 **2020.01:** Our paper *Security and Performance Implications of BGP Rerouting-resistant Guard Selection Algorithms for Tor* by Asya Mitseva, Marharyta Aleksandrova, Thomas Engel and Andriy Panchenko was accepted for 35th International Conference on ICT Systems Security and Privacy Protection [IFIP SEC 2020](https://sec2020.um.si/conference-program/). Resources: [presentation](resources/2020/IFIP_SEC_2020.pdf)
 
