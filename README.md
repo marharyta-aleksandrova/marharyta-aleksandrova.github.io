@@ -21,7 +21,7 @@ Feel free to browse this website to learn about my [research](research.md), [tea
 
 **2021.07.26:** Our paper *Impact of Model-Agnostic Nonconformity Functions on Efficiency of Conformal Classifiers: an Extensive Study* by Marharyta Aleksandrova and Oleg Chertov was accepted for 10th Symposium on Conformal and Probabilistic Prediction with Applications [COPA 2021](https://cml.rhul.ac.uk/copa2021).
 
-**2021.07.07:** Our paper *How Nonconformity Functions and Difficulty of Datasets Impact the Efficiency of Conformal Classifiers* by Marharyta Aleksandrova and Oleg Chertov was accepted for a poster presentation at the [2021 Distribution-Free UQ](https://sites.google.com/berkeley.edu/dfuq21/home?authuser=0) workshop at [ICML 2021](https://icml.cc/Conferences/2021/Schedule?showEvent=8373). Resources: [video presentation](https://youtu.be/lLtZkVwxMNw), [paper](https://arxiv.org/abs/2108.05677)
+**2021.07.07:** Our paper *How Nonconformity Functions and Difficulty of Datasets Impact the Efficiency of Conformal Classifiers* by Marharyta Aleksandrova and Oleg Chertov was accepted for a poster presentation at the [2021 Distribution-Free UQ](https://sites.google.com/berkeley.edu/dfuq21/home?authuser=0) workshop at [ICML 2021](https://icml.cc/Conferences/2021/Schedule?showEvent=8373). Resources: [video presentation](https://youtu.be/lLtZkVwxMNw), [paper](https://arxiv.org/abs/2108.05677), [poster](resources/2021/ICML-DFUQ-2021_poster.png)
 
 **2021.06:** In July 2021 I will be giving a course ["Recommender Systems: the Fundamentals"](https://apps.ucu.edu.ua/en/summerschool-ds/course-list/recommender-systems-fundamentals/)
 at [Lviv Data Science Summer School](https://apps.ucu.edu.ua/en/summerschool-ds/).
