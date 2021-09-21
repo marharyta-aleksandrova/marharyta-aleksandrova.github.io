@@ -19,7 +19,9 @@ Feel free to browse this website to learn about my [research](research.md), [tea
 
 ## News:
 
-**2021.07.26:** Our paper *Impact of Model-Agnostic Nonconformity Functions on Efficiency of Conformal Classifiers: an Extensive Study* by Marharyta Aleksandrova and Oleg Chertov was accepted for 10th Symposium on Conformal and Probabilistic Prediction with Applications [COPA 2021](https://cml.rhul.ac.uk/copa2021).
+**2021.09.11:** Our paper *Causal Identification with Additive Noise Models: Quantifying the Effect of Noise* by Benjamin Kap, Marharyta Aleksandrova and Thomas Engel was accepted for 10èmes Journées Francophones sur les Réseaux Bayésiens et les Modèles Graphiques Probabilistes [JFRB 2021](https://pageperso.lis-lab.fr/christophe.gonzales/research/jfrb2021/programme.php).
+
+**2021.07.26:** Our paper *Impact of Model-Agnostic Nonconformity Functions on Efficiency of Conformal Classifiers: an Extensive Study* by Marharyta Aleksandrova and Oleg Chertov was accepted for 10th Symposium on Conformal and Probabilistic Prediction with Applications [COPA 2021](https://cml.rhul.ac.uk/copa2021).  Resources: [paper](https://cml.rhul.ac.uk/copa2021/papers/aleksandrova21.pdf)
 
 **2021.07.07:** Our paper *How Nonconformity Functions and Difficulty of Datasets Impact the Efficiency of Conformal Classifiers* by Marharyta Aleksandrova and Oleg Chertov was accepted for a poster presentation at the [2021 Distribution-Free UQ](https://sites.google.com/berkeley.edu/dfuq21/home?authuser=0) workshop at [ICML 2021](https://icml.cc/Conferences/2021/Schedule?showEvent=8373). Resources: [video presentation](https://youtu.be/lLtZkVwxMNw), [paper](https://arxiv.org/abs/2108.05677), [poster](resources/2021/ICML-DFUQ-2021_poster.png)
 
