@@ -30,7 +30,7 @@ at [6th Lviv Data Science Summer School 2021](https://apps.ucu.edu.ua/en/summers
 
 ## Master thesis supervision
 
-Kap Benjamin "Analysis of the effect of noise in causal learning", University of Luxembourg. Defended in September 2021. [Thesis text](https://arxiv.org/pdf/2108.11320.pdf).
+Kap Benjamin "Analysis of the effect of noise in causal learning", University of Luxembourg. Defended in August 2021. [Thesis text](https://arxiv.org/pdf/2108.11320.pdf).
 
 Almyaly Zainalabden "Designing nonconformity functions for conformal classifiers", University of Luxembourg. Defense planned in July 2021.
 
