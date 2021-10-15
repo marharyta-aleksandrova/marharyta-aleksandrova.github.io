@@ -19,9 +19,11 @@ Feel free to browse this website to learn about my [research](research.md), [tea
 
 ## News:
 
+**2021.10.11** Our paper *The Effect of Noise Level on the Accuracy of Causal Discovery Methods with Additive Noise Models* by Benjamin Kap, Marharyta Aleksandrova and Thomas Engel was accepted for Joint International Scientific Conferences on AI [BNAIC/BENELEARN 2021](https://bnaic2021.uni.lu/program/).
+
 **2021.09.22:** Check [this google colab](https://colab.research.google.com/drive/1c_vFcMWcx5GIb7bQG71FnHKqyscj9--6?usp=sharing) notebook to see how to develop  conformal learning theory from scratch. Presented at [Machine Learning Seminar](https://legato-team.eu/marharyta-aleksandrova-conformal-prediction-machine-learning-with-accuracy-guarantees/) organized by [Legato team](https://legato-team.eu/) from the University of Luxembourg.
 
-**2021.09.11:** Our paper *Causal Identification with Additive Noise Models: Quantifying the Effect of Noise* by Benjamin Kap, Marharyta Aleksandrova and Thomas Engel was accepted for 10èmes Journées Francophones sur les Réseaux Bayésiens et les Modèles Graphiques Probabilistes [JFRB 2021](https://pageperso.lis-lab.fr/christophe.gonzales/research/jfrb2021/programme.php).
+**2021.09.11:** Our paper *Causal Identification with Additive Noise Models: Quantifying the Effect of Noise* by Benjamin Kap, Marharyta Aleksandrova and Thomas Engel was accepted for 10èmes Journées Francophones sur les Réseaux Bayésiens et les Modèles Graphiques Probabilistes [JFRB 2021](https://pageperso.lis-lab.fr/christophe.gonzales/research/jfrb2021/programme.php). Resources: [paper](https://pageperso.lis-lab.fr/christophe.gonzales/research/jfrb2021/articles/JFRB_2021_paper_11.pdf), [presentation](resources/2021//JFRB_2021_presentation.pdf)
 
 **2021.07.26:** Our paper *Impact of Model-Agnostic Nonconformity Functions on Efficiency of Conformal Classifiers: an Extensive Study* by Marharyta Aleksandrova and Oleg Chertov was accepted for 10th Symposium on Conformal and Probabilistic Prediction with Applications [COPA 2021](https://cml.rhul.ac.uk/copa2021).  Resources: [paper](https://cml.rhul.ac.uk/copa2021/papers/aleksandrova21.pdf)
 
