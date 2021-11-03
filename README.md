@@ -19,7 +19,7 @@ Feel free to browse this website to learn about my [research](research.md), [tea
 
 ## News:
 
-**2021.01.11** On November 3, 10 and 24 I will be presenting the theory of Causal Inference & Causal Learning at [Machine Learning Seminar](https://legato-team.eu/marharyta-aleksandrova-causal-inference-causal-learning-towards-causal-ml-part-1/) organized by [Legato team](https://legato-team.eu/) from the University of Luxembourg.
+**2021.11.01** On November 3, 10 and 24 I will be presenting the theory of Causal Inference & Causal Learning at [Machine Learning Seminar](https://legato-team.eu/marharyta-aleksandrova-causal-inference-causal-learning-towards-causal-ml-part-1/) organized by [Legato team](https://legato-team.eu/) from the University of Luxembourg.
 
 **2021.10.11** Our paper *The Effect of Noise Level on the Accuracy of Causal Discovery Methods with Additive Noise Models* by Benjamin Kap, Marharyta Aleksandrova and Thomas Engel was accepted for Joint International Scientific Conferences on AI [BNAIC/BENELEARN 2021](https://bnaic2021.uni.lu/program/).
 
