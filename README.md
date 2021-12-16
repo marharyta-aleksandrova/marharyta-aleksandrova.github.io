@@ -17,6 +17,10 @@ where I am a member of [SECAN-Lab](https://secan-lab.uni.lu/) team.
 Feel free to browse this website to learn about my [research](research.md), [teaching](teaching.md), and other experiences. You can also find out more by checking my 
 [LinkedIn](https://www.linkedin.com/in/marharyta-aleksandrova-8b567245/) and [Google Scholar](https://scholar.google.com/citations?user=rwcqydIAAAAJ&hl=en&oi=ao) pages.
 
+## Contact:
+
+marharyta dot aleksandrova at uni dot lu, marharyta dot aleksandrova at gmail dot com
+
 ## News:
 
 **2021.11.01** On November 3, 10 and 24 I will be presenting the theory of Causal Inference & Causal Learning at [Machine Learning Seminar](https://legato-team.eu/marharyta-aleksandrova-causal-inference-causal-learning-towards-causal-ml-part-1/) organized by [Legato team](https://legato-team.eu/) from the University of Luxembourg. Resources: [Recording of Lecture 1](https://www.youtube.com/watch?v=K8L5WEFA3hA), [Recording of Lecture 2](https://www.youtube.com/watch?v=9Qp2Lb0FaQE), [Recording of Lecture 3](https://www.youtube.com/watch?v=7T9JO6Qvyuc)
