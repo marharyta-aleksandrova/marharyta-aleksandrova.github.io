@@ -23,7 +23,7 @@ marharyta dot aleksandrova at uni dot lu, marharyta dot aleksandrova at gmail do
 
 ## News:
 
-**2022.01.18** Our paper *k-Pareto Optimality-Based Sorting with Maximization of Choice* by Jean Ruppert, Marharyta Aleksandrova and Thomas Engel was accepted for The 25th International Conference on Artificial Intelligence and Statistics [AISTATS-2022](https://aistats.org/aistats2022/). Resources: [preprint](http://arxiv.org/abs/2201.08206)
+**2022.01.18** Our paper *k-Pareto Optimality-Based Sorting with Maximization of Choice* by Jean Ruppert, Marharyta Aleksandrova and Thomas Engel was accepted for The 25th International Conference on Artificial Intelligence and Statistics [AISTATS-2022](https://aistats.org/aistats2022/). Resources: [preprint](http://arxiv.org/abs/2201.08206), [code](https://github.com/marharyta-aleksandrova/kPO)
 
 **2021.11.01** On November 3, 10 and 24 I will be presenting the theory of Causal Inference & Causal Learning at [Machine Learning Seminar](https://legato-team.eu/marharyta-aleksandrova-causal-inference-causal-learning-towards-causal-ml-part-1/) organized by [Legato team](https://legato-team.eu/) from the University of Luxembourg. Resources: [Recording of Lecture 1](https://www.youtube.com/watch?v=K8L5WEFA3hA), [Recording of Lecture 2](https://www.youtube.com/watch?v=9Qp2Lb0FaQE), [Recording of Lecture 3](https://www.youtube.com/watch?v=7T9JO6Qvyuc)
 
