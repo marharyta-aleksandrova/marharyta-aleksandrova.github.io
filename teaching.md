@@ -42,6 +42,8 @@ Nima Jehan Mothafar "Impact of model-agnostic nonconformity functions on perform
 
 ### [University of Luxembourg](https://wwwen.uni.lu/)
 
+Course "Introduction to Machine Learning Methods and Data  Mining" for [Master of Data Science](https://wwwfr.uni.lu/formations/fstm/master_of_data_science), 2d semester. Course prepared together with [POLTAVSKYI Igor](https://scholar.google.com/citations?user=tX82CDwAAAAJ&hl=en) and [TKATCHENKO Alexandre](https://scholar.google.com/citations?hl=en&user=o2t1Pv8AAAAJ).
+
 Course "Fundamentals of causal learning" for [Master in Information and Computer Sciences](https://wwwen.uni.lu/studies/fstm/master_in_information_and_computer_sciences/programme), 
 3d semester. Check [here](https://youtu.be/xYp-gOUrKxo) for a short video presentation of the course. Taught in fall 2020.
 
