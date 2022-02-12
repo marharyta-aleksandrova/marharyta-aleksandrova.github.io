@@ -30,9 +30,11 @@ at [6th Lviv Data Science Summer School 2021](https://apps.ucu.edu.ua/en/summers
 
 ## Master thesis supervision
 
-Kap Benjamin "Analysis of the effect of noise in causal learning", University of Luxembourg. Defended in August 2021. [Thesis text](https://arxiv.org/pdf/2108.11320.pdf).
+Pali Emiliana "The impact of nonconformity functions on the efficiency of Conformal Regression", University of Luxembourg. Defended in February 2022.
 
-Almyaly Zainalabden "Designing nonconformity functions for conformal classifiers", University of Luxembourg. Defense planned in July 2021.
+Almyaly Zainalabden "Designing nonconformity functions for conformal classifiers", University of Luxembourg. Defended in February 2022.
+
+Kap Benjamin "Analysis of the effect of noise in causal learning", University of Luxembourg. Defended in August 2021. [Thesis text](https://arxiv.org/pdf/2108.11320.pdf).
 
 Nima Jehan Mothafar "Impact of model-agnostic nonconformity functions on performance of conformal predictors", University of Luxembourg. Defended in January 2021.
 
