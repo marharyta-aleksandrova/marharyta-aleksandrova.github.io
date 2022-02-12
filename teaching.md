@@ -42,10 +42,10 @@ Nima Jehan Mothafar "Impact of model-agnostic nonconformity functions on perform
 
 ### [University of Luxembourg](https://wwwen.uni.lu/)
 
-Course "Introduction to Machine Learning Methods and Data  Mining" for [Master of Data Science](https://wwwfr.uni.lu/formations/fstm/master_of_data_science), 2d semester. Course prepared together with [POLTAVSKYI Igor](https://scholar.google.com/citations?user=tX82CDwAAAAJ&hl=en) and [TKATCHENKO Alexandre](https://scholar.google.com/citations?hl=en&user=o2t1Pv8AAAAJ).
+Course "Introduction to Machine Learning Methods and Data  Mining" for [Master of Data Science](https://wwwfr.uni.lu/formations/fstm/master_of_data_science), 2d semester. Course prepared together with [POLTAVSKYI Igor](https://scholar.google.com/citations?user=tX82CDwAAAAJ&hl=en) and [TKATCHENKO Alexandre](https://scholar.google.com/citations?hl=en&user=o2t1Pv8AAAAJ). Taught in spring 2022.
 
 Course "Fundamentals of causal learning" for [Master in Information and Computer Sciences](https://wwwen.uni.lu/studies/fstm/master_in_information_and_computer_sciences/programme), 
-3d semester. Check [here](https://youtu.be/xYp-gOUrKxo) for a short video presentation of the course. Taught in fall 2020.
+3d semester. Check [here](https://youtu.be/xYp-gOUrKxo) for a short video presentation of the course. Taught in fall 2020, 2021.
 
 Course "Computational Science 2" for [Bachelor in Computer Science](https://wwwfr.uni.lu/formations/fstm/bachelor_in_computer_science/programme), 6th semester. 
 Check [here](https://wwwfr.uni.lu/layout/set/print/formations/fstm/bachelor_in_computer_science/programme?f=BAACAINFOR&c=0008C3366) for a detailed description of
