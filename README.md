@@ -11,17 +11,19 @@
 
 Hi there!
 
-I am a researcher in Machine Learning and Artificial Intelligence. Currently, I work as a postdoctoral researcher at the [University of Luxembourg](https://wwwen.uni.lu/) 
-where I am a member of [SECAN-Lab](https://secan-lab.uni.lu/) team.
+I am a researcher in Machine Learning and Artificial Intelligence. Currently, I work as an Applied Scientist at Amazon. Before that, I was a postdoctoral researcher at the [University of Luxembourg](https://wwwen.uni.lu/) 
+where I was a member of [SECAN-Lab](https://secan-lab.uni.lu/) team.
 
 Feel free to browse this website to learn about my [research](research.md), [teaching](teaching.md), and other experiences. You can also find out more by checking my 
 [LinkedIn](https://www.linkedin.com/in/marharyta-aleksandrova-8b567245/) and [Google Scholar](https://scholar.google.com/citations?user=rwcqydIAAAAJ&hl=en&oi=ao) pages.
 
 ## Contact:
 
-marharyta dot aleksandrova at uni dot lu, marharyta dot aleksandrova at gmail dot com
+marharyta dot aleksandrova at gmail dot com
 
 ## News:
+
+**2022.11.17** Our paper *k-Pareto Optimality-Based Sorting with Maximization of Choice and Its Application to Genetic Optimization* by Jean Ruppert, Marharyta Aleksandrova and Thomas Engel was published in MDPI open access journal Algorithms. Resources: [paper](https://www.mdpi.com/1999-4893/15/11/420), [related code](https://github.com/marharyta-aleksandrova/kPO), [certificate](esources/2022/Publication_Certificate_MDPI_algorithms-15-00420.pdf)
 
 **2022.06.30** Tutorial at PFIA-2022. Resources: [code](https://github.com/marharyta-aleksandrova/conformal-learning/tree/main/tutorials)
 
