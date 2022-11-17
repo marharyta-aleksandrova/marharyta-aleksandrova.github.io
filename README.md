@@ -23,7 +23,7 @@ marharyta dot aleksandrova at gmail dot com
 
 ## News:
 
-**2022.11.17** Our paper *k-Pareto Optimality-Based Sorting with Maximization of Choice and Its Application to Genetic Optimization* by Jean Ruppert, Marharyta Aleksandrova and Thomas Engel was published in MDPI open access journal Algorithms. Resources: [paper](https://www.mdpi.com/1999-4893/15/11/420), [related code](https://github.com/marharyta-aleksandrova/kPO), [certificate](esources/2022/Publication_Certificate_MDPI_algorithms-15-00420.pdf)
+**2022.11.17** Our paper *k-Pareto Optimality-Based Sorting with Maximization of Choice and Its Application to Genetic Optimization* by Jean Ruppert, Marharyta Aleksandrova and Thomas Engel was published in MDPI open access journal Algorithms. Resources: [paper](https://www.mdpi.com/1999-4893/15/11/420), [related code](https://github.com/marharyta-aleksandrova/kPO), [certificate](resources/2022/Publication_Certificate_MDPI_algorithms-15-00420.pdf)
 
 **2022.06.30** Tutorial at PFIA-2022. Resources: [code](https://github.com/marharyta-aleksandrova/conformal-learning/tree/main/tutorials)
 
