@@ -10,6 +10,8 @@
 
 ## Tutorials / Workshops
 
+*2025.01.28* Tutorial "Conformal learning" at Machine Learning Week 2025 (ML Week 2025) which took place from January 27 to 31, 2025 in Slavske, Lviv region, Ukraine. The ML Week was organized by [Oleg Chertov](https://www.linkedin.com/in/oleg-chertov-50583a19/) and his teams at the National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute". [News](https://ecmiindmath.org/2025/02/11/machine-learning-week-2025-in-ukraine-advancing-education-amidst-challenges/) featured by European Consortium for Mathematics in Industry (ECMI), [LinkedIn](https://www.linkedin.com/posts/matthiasehrhardt_machinelearning-ai-education-activity-7295128738663428097-JLy-/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAEFYoABA9ceC8-gEL19gkWl2lyBnBJJOXM). 
+
 **2021.06.29**: Tutorial ["Vers l'apprentissage automatique causal"](https://pfia2021.fr/tutoriels/?p=programme) /
 "Towards Causal Machine Learning" at [PFIA'21](https://pfia2021.fr/) 
 
